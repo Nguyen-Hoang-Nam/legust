@@ -18,26 +18,25 @@ $ legust -y 2021 -n username -o filename mit
 
 ## Support
 
-- [ ] agpl-3.0
-- [ ] apache-2.0
+- [x] agpl-3.0
+- [x] apache-2.0
 - [x] bsd-2-clause
 - [x] bsd-3-clause
 - [x] bsl-1.0
-- [ ] cc0-1.0
-- [ ] epl-2.0
-- [ ] gpl-2.0
-- [ ] gpl-3.0
-- [ ] lgpl-2.1
+- [x] cc0-1.0
+- [x] epl-2.0
+- [x] gpl-2.0
+- [x] gpl-3.0
+- [x] lgpl-2.1
 - [x] mit
-- [ ] mpl-2.0
+- [x] mpl-2.0
 - [x] unlicense
 
 ## Todo
 
 - [ ] Get username from git
-- [ ] Get username from environment
-- [ ] Validate file's name
-- [ ] Validate license's name
+- [x] Get username from environment
+- [x] Validate file's name
 
 ## Contributing
 

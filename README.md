@@ -6,9 +6,9 @@ Base on [Legit](https://github.com/captainsafia/legit), I make this with rust to
 
 ## Installation
 
-### Manual
-
-The best way to install is you already have Rust, and you build release with `cargo build --release`, then copying the binary to `~/.local/bin`.
+```bash
+$ cargo install --git https://github.com/Nguyen-Hoang-Nam/legust
+```
 
 ## Usage
 
